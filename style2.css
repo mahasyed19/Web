@@ -1,0 +1,16 @@
+form{
+   background-color: blueviolet;
+   border-style: double;
+}
+h1{
+   text-shadow: 2px 2px 4px black;
+}
+h1.st{
+   font-size: 50px;
+}
+input[type=text]{
+    vertical-align: middle ;
+}
+img.img{
+   text-align: center;
+}
